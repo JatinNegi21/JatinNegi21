@@ -6,7 +6,7 @@
 ## 🎓 I'm a BE - Computer Science student at Thapar Institute
 
 * 💡  I like to explore new technologies and develop software solutions and quick hacks.
-* 🌱  I'm on track for learning more about Cyber security, Web Development, and Augmented Reality.
+* 🌱  I'm on track for learning more about Cyber security, Web Development.
 * 💬  Feel free to reach out to me for some interesting discussion.
 
 ## ✉️ Find me on:
